@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋 
 
-<!--
-**SpookyBoogy2016/SpookyBoogy2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I work at [SSW](https://ssw.com.au)
+- ✍️ I blog here: [Tino's Blog](https://tinoliu.com/)
+- 🤔 I’m currently learning how to be a better Full-Stack Developer
+- 💭 I love listening to podcasts or read books about social science and behaviors
+- 🎶 Making music and singing is my hobby No. 1
+- 🎨 Painting and drawing is my hobby No. 2
+- ⚡ Fun fact: I once played as Captain von Trapp in the Sound of Music musical in front of 300+ audience
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,styledcomponents,tailwind,jest,vercel,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyBoogy2016&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
