@@ -8,6 +8,6 @@
 - 🎨 Painting and drawing is my hobby No. 2
 - ⚡ Fun fact: I once played as Captain von Trapp in the Sound of Music musical in front of 300+ audience
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,styledcomponents,tailwind,jest,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,angular,ts,js,css,styledcomponents,tailwind,jest,vercel,vscode,git)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyBoogy2016&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
