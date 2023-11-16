@@ -10,4 +10,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,css,styledcomponents,tailwind,jest,vercel,vscode,git)](https://skillicons.dev)
 
-[![Tino's GitHub stats](https://github-readme-stats-SpookyBoogy2016.vercel.app/api?username=SpookyBoogy2016&theme=dark&show_icons=true)](https://github.com/SpookyBoogy2016/github-readme-stats) 
+[![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyBoogy2016&theme=dark&show_icons=true)](https://github.com/SpookyBoogy2016/github-readme-stats) 
