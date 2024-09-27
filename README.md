@@ -1,7 +1,6 @@
 ### Hi there! 👋 
 
 - 👨‍💻 I work at [SSW](https://ssw.com.au)
-- ✍️ I blog here: [Tino's Blog](https://tinoliu.com/)
 - 🤔 I’m currently learning how to be a better Full-Stack Developer
 - 💭 I love listening to podcasts or read books about social science and behaviors
 - 🎶 Making music and singing is my hobby No. 1
