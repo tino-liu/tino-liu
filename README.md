@@ -7,6 +7,6 @@
 - 🎨 Painting and drawing is my hobby No. 2
 - ⚡ Fun fact: I once played as Captain von Trapp in the Sound of Music musical in front of 300+ audience
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,css,styledcomponents,tailwind,jest,vercel,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,react,nextjs,angular,html,ts,js,css,styledcomponents,tailwind,jest,vercel,vscode,git,firebase)](https://skillicons.dev)
 
 [![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=tino-liu)](https://github.com/anuraghazra/github-readme-stats)
