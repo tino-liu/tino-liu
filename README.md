@@ -6,6 +6,7 @@
 - 🎶 Making music and singing is my hobby No. 1
 - 🎨 Painting and drawing is my hobby No. 2
 - ⚡ Fun fact: I once played as Captain von Trapp in the Sound of Music musical in front of 300+ audience
+- 🌏 At SSW, I look after Chinafy projects which help international companies bring their websites and products to the China market of 1.4 billion people
 
 [![My Skills](https://skillicons.dev/icons?i=azure,dotnet,react,nextjs,angular,html,ts,js,css,styledcomponents,tailwind,jest,vercel,vscode,git,firebase)](https://skillicons.dev)
 
