@@ -11,5 +11,3 @@
 [![My Skills](https://skillicons.dev/icons?i=azure,dotnet,react,nextjs,angular,html,ts,js,css,styledcomponents,tailwind,jest,vercel,vscode,git,firebase)](https://skillicons.dev)
 
 [![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=tino-liu)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=tino-liu)](https://github.com/tino-liu/github-readme-stats)
